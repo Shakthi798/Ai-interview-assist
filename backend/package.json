@@ -1,0 +1,19 @@
+{
+  "name": "interview-assistant-backend",
+  "version": "1.0.0",
+  "main": "server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "node-fetch": "^3.3.2",
+    "openai": "^4.0.0",
+    "winston": "^3.8.2",
+    "ws": "^8.13.0"
+  }
+}
